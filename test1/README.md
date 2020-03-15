@@ -5,8 +5,8 @@
 
 ## 流程图1：考试及成绩管理流程
 ### 业务流程图如下：
-![CSDN图标](https://github.com/tangmeiqi1/is_analysis/tree/master/test1/1.png)
-![CSDN图标](https://github.com/tangmeiqi1/is_analysis/tree/master/test1/2.png)
+![CSDN图标](https://github.com/tangmeiqi1/is_analysis/blob/master/test1/1.png)
+![CSDN图标](https://github.com/tangmeiqi1/is_analysis/blob/master/test1/2.png)
 ### 代码如下：
 #### 
 >@startuml
@@ -59,8 +59,8 @@
 
 ## 流程图2：客户维修服务流程
 ### 业务流程图如下：
-![CSDN图标](https://github.com/tangmeiqi1/is_analysis/tree/master/test1/3.png)
-![CSDN图标](https://github.com/tangmeiqi1/is_analysis/tree/master/test1/4.png)
+![CSDN图标](https://github.com/tangmeiqi1/is_analysis/blob/master/test1/3.png)
+![CSDN图标](https://github.com/tangmeiqi1/is_analysis/blob/master/test1/4.png)
 ### 代码如下：
 #### 
 >@startuml
