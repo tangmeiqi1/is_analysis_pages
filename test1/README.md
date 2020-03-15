@@ -5,11 +5,11 @@
 
 ## 流程图1：考试及成绩管理流程
 ### 业务流程图如下：
-![CSDN图标](https://github.com/tangmeiqi1/is_analysis.git/test1/1.png)
-![CSDN图标](https://github.com/tangmeiqi1/is_analysis.git/test1/2.png)
+![CSDN图标](https://github.com/tangmeiqi1/tree/master/is_analysis.git/test1/1.png)
+![CSDN图标](https://github.com/tangmeiqi1/tree/master/is_analysis.git/test1/2.png)
 ### 代码如下：
-#### >
-@startuml
+#### 
+>@startuml
 |教务处|
 start
 :安排考试;
@@ -59,11 +59,11 @@ stop
 
 ## 流程图2：客户维修服务流程
 ### 业务流程图如下：
-![CSDN图标](https://github.com/tangmeiqi1/is_analysis.git/test1/3.png)
-![CSDN图标](https://github.com/tangmeiqi1/is_analysis.git/test1/4.png)
+![CSDN图标](https://github.com/tangmeiqi1/tree/master/is_analysis.git/test1/3.png)
+![CSDN图标](https://github.com/tangmeiqi1/tree/master/is_analysis.git/test1/4.png)
 ### 代码如下：
-#### >
-@startuml
+#### 
+>@startuml
 |客户|
 start
 :申请服务;
